@@ -12,5 +12,8 @@ public class Test2 {
       System.out.println("push test");
       System.out.println("pull test");
       System.out.println("hello 新分支");
+      System.out.println("====================");
+
+      System.out.println("我创建一个新的分支自己用");
    }
 }
