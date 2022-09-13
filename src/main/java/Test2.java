@@ -1,6 +1,6 @@
 /**
  * @author 苑志朋
- * @version 1.0
+ * @version 2.0
  */
 public class Test2 {
    public static void main(String[] args) {
